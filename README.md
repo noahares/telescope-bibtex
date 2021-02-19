@@ -1,5 +1,7 @@
 # telescope-bibtex
 
+*DEVELOPMENT HAS MOVED TO (https://github.com/nvim-telescope/telescope-bibtex.nvim)*
+
 Search and paste entries from `*.bib` files with [telescope.nvim](https://github.com/nvim-telescope).
 
 The `*.bib` files must be in the current working directory.
